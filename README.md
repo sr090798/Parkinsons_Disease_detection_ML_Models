@@ -11,5 +11,4 @@ This project predicts **Parkinson's Disease** using machine learning techniques.
 - `presentation.pptx` — PowerPoint summarizing the approach, results, and conclusions.
 
 ## Created by 
-Priyanshi Dubey
-Shivam Rathour
+Priyanshi Dubey | Shivam Rathour
