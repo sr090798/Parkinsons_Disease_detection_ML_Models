@@ -7,5 +7,5 @@ This project predicts **Parkinson's Disease** using machine learning techniques.
 ## Files
 
 - `notebook.ipynb` — Colab notebook with the full code and explanation.
-- `dataset/` — Dataset used for the project *(can be uploaded here or provide a link below)*.
+- `dataset/` — Dataset used for the project.
 - `presentation.pptx` — PowerPoint summarizing the approach, results, and conclusions.
